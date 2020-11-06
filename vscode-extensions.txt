@@ -31,3 +31,5 @@ vinliao.fast-arrow
 xabikos.JavaScriptSnippets
 zhuangtongfa.material-theme
 Zignd.html-css-class-completion
+octref.vetur
+jcbuisson.vue
